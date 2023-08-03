@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Ivan Gonzalo Tapia 👋</h1>
 <br/>
-<h2 align="center"> Passionate Web Developer & I love Python ♥ </h2>
+<h2> Passionate Web Developer & I love Python ♥ </h2>
 <br/>
 <p>
   🧑‍💻 Specialized in web development technologies such as Javascript, Node js, Express.
