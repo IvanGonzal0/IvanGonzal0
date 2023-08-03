@@ -8,7 +8,9 @@
     🎓 Software Developer student
 </p>
 
-
+<a href="https://github.com/IvanGonzal0">
+    <img src="https://komarev.com/ghpvc/?username=IvanGonzal0">
+</a>
 ## 🌐 &nbsp;Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-contact.aivan.gonzalo01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact.aivan.gonzalo01@gmail.com)](mailto:contact.aivan.gonzalo01@gmail.com)
