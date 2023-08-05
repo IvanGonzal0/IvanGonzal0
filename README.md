@@ -4,7 +4,7 @@
 <br/>
 <p>
   🧑‍💻 Specialized in web development technologies such as Javascript, Node js, Express.
-        Also Python data using NumPy, Pandas, Matplotlib, Seaborn & IA using Sickit-Lear, TensorFlow and Keras. <br/>
+        Also Python data using NumPy, Pandas, Matplotlib, Seaborn & IA using Sickit-Learn, OpenCV, TensorFlow and Keras. <br/>
     🎓 Software Developer student
 </p>
 
